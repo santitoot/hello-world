@@ -6,7 +6,7 @@
   <img src="logo jojo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>hello-microvese</b></h3>
+  <h3><b>hello-microverse</b></h3>
 
 </div>
 
@@ -35,6 +35,7 @@
 
 
 # 📖 [hello-microvese] <a name="about-project"></a>
+
 
 
 **[hello-microvese]** is just a siple HTML and CSS project using linters to demostrate my knowledge with HTML, CSS and GitHub
@@ -130,7 +131,7 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+
 
 - [ ] **[External CSS]**
 - [ ] **[Linters Embeded]**
@@ -162,7 +163,7 @@ Feel free to check the [issues page](../../issues/).
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank...
+I would like to thank me
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
